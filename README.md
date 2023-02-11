@@ -101,7 +101,7 @@ dlwnsgur0803@gmail.com | 이메일 | j3837301@gmail.com | nevermail_@naver.com
 
 # Demo
 ![FUSION_result_A](https://user-images.githubusercontent.com/85532197/173238845-7198f4c7-1d8b-4f21-8906-89ce3f896396.gif)
-
+왼쪽 사진에서 주황색 박스로 사람도 잘 인지하고 있고, 오른쪽 뷰에서도 사람의 움직임을 잘 잡고 있음을 볼 수 있습니다.
 
 <br/>
 
